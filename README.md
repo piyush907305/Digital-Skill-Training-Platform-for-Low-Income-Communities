@@ -1,5 +1,3 @@
-# Digital-Skill-Training-Platform-for-Low-Income-Communities
-
 # 🌐 Digital Skill Training Platform for Low-Income Communities
 
 *Empowering underserved communities through accessible digital skills training.*
